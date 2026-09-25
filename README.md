@@ -80,3 +80,6 @@ git push -u origin main
 ```
 
 GitHub Pages cannot directly run a Python Streamlit application because it serves static files only. The repository can be hosted on GitHub, while the Streamlit application should be deployed using a free Python-compatible hosting service such as Streamlit Community Cloud. Connect the GitHub repository there and set the main file to `app.py`.
+
+
+run using :-    python -m streamlit run app.py
