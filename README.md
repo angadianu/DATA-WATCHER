@@ -1,8 +1,8 @@
-# InsightForge AI
+# DATA WATCH
 
 ## Overview
 
-InsightForge AI is a Streamlit-based Machine Learning Analytics Dashboard for exploring customer datasets, checking data quality, visualizing patterns, training baseline models, clustering numerical profiles, and generating transparent predictions. It is designed as a practical BCA portfolio project that runs locally without API keys or paid services.
+DATA WATCH is a Streamlit-based Machine Learning Analytics Dashboard for exploring customer datasets, checking data quality, visualizing patterns, training baseline models, clustering numerical profiles, and generating transparent predictions. It is designed as a practical BCA portfolio project that runs locally without API keys or paid services.
 
 ## Features
 
